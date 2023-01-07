@@ -1,4 +1,4 @@
-package java.item02.v2;
+package effective.item02.builder.v2;
 
 import lombok.Builder;
 

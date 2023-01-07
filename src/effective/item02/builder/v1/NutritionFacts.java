@@ -1,4 +1,4 @@
-package java.item02.v1;
+package effective.item02.builder.v1;
 
 // 코드 2-3 빌더 패턴 - 점층적 생성자 패턴과 자바빈드 장점만 취했다. (17-18 page)
 public class NutritionFacts {
